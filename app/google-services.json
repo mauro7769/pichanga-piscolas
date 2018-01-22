@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "545831382077",
+    "firebase_url": "https://pichangaspiscolas-f0eda.firebaseio.com",
+    "project_id": "pichangaspiscolas-f0eda",
+    "storage_bucket": "pichangaspiscolas-f0eda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545831382077:android:1a1919ed1407b860",
+        "android_client_info": {
+          "package_name": "cl.duoc.pichangaspiscolas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545831382077-so9jj49hj670ts9anm04othgfbv45joa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.duoc.pichangaspiscolas",
+            "certificate_hash": "615fa341cc3c50709136f40cbccd8a8a2cba540b"
+          }
+        },
+        {
+          "client_id": "545831382077-svumo54hb6v4mia7r8476ijuddsa82ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCydgm4O-sMAUNLMQngjzeHafV2wKkEbKA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545831382077-svumo54hb6v4mia7r8476ijuddsa82ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

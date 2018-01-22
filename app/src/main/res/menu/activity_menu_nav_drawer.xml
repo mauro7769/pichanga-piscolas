@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/registrarPartido"
+            android:icon="@drawable/if_football_172468"
+            android:title="@string/registrar_partido" />
+        <item
+            android:id="@+id/listarPartido"
+            android:icon="@drawable/if_list_107210"
+            android:title="@string/listar_partidos" />
+
+    </group>
+
+</menu>
